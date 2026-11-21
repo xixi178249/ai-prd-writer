@@ -84,7 +84,7 @@ Polishing an existing PRD, architecture design, competitive analysis, or task sc
 
 ```
 SKILL.md                 entry point: six ground rules, four phases, provenance ledger
-references/              template, question bank, 14-point checklist, good-vs-bad examples
+references/              template, question bank, 15-point checklist, good-vs-bad examples
 examples/                two complete fictional samples
 evals/trigger-cases.jsonl  20 trigger cases (12 should fire, 8 should not)
 .github/workflows/        format lint
