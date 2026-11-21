@@ -12,3 +12,5 @@ __pycache__/
 
 # 装出来的成品 PRD（产物不入库）
 PRD_*.md
+# 回放验收的成品要入库，不受上面忽略规则影响
+!evals/replay/PRD_*.md
