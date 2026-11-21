@@ -1,0 +1,20 @@
+{"id": 1, "text": "写 PRD：给 HR 做个筛简历的小助手", "should_trigger": true, "why": "显式点名 PRD + 场景"}
+{"id": 2, "text": "帮我出个 AI 产品方案，客服机器人", "should_trigger": true, "why": "产品方案 + AI 场景"}
+{"id": 3, "text": "明天要过评审，我需要对一下需求，现在的想法还很乱", "should_trigger": true, "why": "评审前对齐需求，正是本技能场景"}
+{"id": 4, "text": "这个功能要不要做？我跟老板说不清楚价值", "should_trigger": true, "why": "要不要做 + 对上级汇报，命中 P0 INTAKE"}
+{"id": 5, "text": "帮我理一下需求，我想做个门店巡检的小程序", "should_trigger": true, "why": "帮我理需求 + 非 AI 场景也应触发"}
+{"id": 6, "text": "PRD 初稿，按我们之前的模板来", "should_trigger": true, "why": "PRD 初稿 + 模板"}
+{"id": 7, "text": "我有一堆访谈记录和两份竞品文档，帮我合起来出个需求文档", "should_trigger": true, "why": "材料合流 + 需求文档，走 M 账本"}
+{"id": 8, "text": "出个立项材料，给算法团队看的", "should_trigger": true, "why": "立项材料，需要效果定义与验收"}
+{"id": 9, "text": "这个 AI 功能的效果该怎么定指标？老板问怎么算成", "should_trigger": true, "why": "效果定义与及格线，本技能 §3 核心"}
+{"id": 10, "text": "requirements doc for our new invoice-approval feature", "should_trigger": true, "why": "英文同义表达也应触发"}
+{"id": 11, "text": "帮我写个 product spec，要能过 design review", "should_trigger": true, "why": "product spec + 评审"}
+{"id": 12, "text": "先把需求问清楚再写，别一次抛一堆问题给我", "should_trigger": true, "why": "显式要求一轮一问，正是本技能默认行为"}
+{"id": 13, "text": "帮我调一下这个函数的性能，太慢了", "should_trigger": false, "why": "代码性能优化，无产品需求"}
+{"id": 14, "text": "帮我写个 SQL 把上个月的订单按区域汇总", "should_trigger": false, "why": "数据查询，不是需求文档"}
+{"id": 15, "text": "这份 PRD 语句太啰嗦，帮我润色一下", "should_trigger": false, "why": "已有 PRD 只需润色，明确排除项"}
+{"id": 16, "text": "画个系统架构图，要包含网关和消息队列", "should_trigger": false, "why": "架构设计，明确排除项"}
+{"id": 17, "text": "帮我做个竞品分析，三家都要覆盖", "should_trigger": false, "why": "竞品分析，明确排除项"}
+{"id": 18, "text": "排个开发计划，把任务拆到人天", "should_trigger": false, "why": "排期拆解，且本技能禁止替人排期"}
+{"id": 19, "text": "帮我把这份 Markdown 转成 PDF", "should_trigger": false, "why": "格式转换"}
+{"id": 20, "text": "这个 bug 为什么只在 iOS 上出现", "should_trigger": false, "why": "缺陷排查"}

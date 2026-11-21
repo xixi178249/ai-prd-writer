@@ -1,0 +1,14 @@
+# OS / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# 装出来的成品 PRD（产物不入库）
+PRD_*.md
